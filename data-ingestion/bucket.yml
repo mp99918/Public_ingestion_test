@@ -2,5 +2,7 @@ flows:
   b19184fe-daf0-41a9-91d2-ae1ccc1f51d1: {ver: 1, file: public_ingestion_test.snapshot,
     comments: '', author: mahaboobbasha.p, created: 1708949342367, flowName: public_ingestion_test,
     flowDesc: ''}
+  410b030e-ba24-4b55-928f-68302f83aeb5: {ver: 1, file: test1.snapshot, comments: '',
+    author: mahaboobbasha.p, created: 1708950195995, flowName: test1, flowDesc: ''}
 layoutVer: 1
 bucketId: 43e0656b-90f1-4ef5-9840-12cf8c43f573
